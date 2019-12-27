@@ -69,7 +69,6 @@ def Closest_Pair_Rec(Px, Py):
     return bestPair[0], bestPair[1]
     
 
-# do not change the code below
 random.seed(12345)
 P = []
 for i in range(int(sys.argv[1])):
