@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Shroom
+comment1.params=x\ y
+comment1.target=Shroom(double,\ double)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=void\ poison()
+comment5.params=
+comment5.target=void\ reduceHealth()
+comment6.params=brush
+comment6.target=void\ fill(java.awt.Graphics2D)
+comment7.params=brush
+comment7.target=void\ draw(java.awt.Graphics2D)
+numComments=8

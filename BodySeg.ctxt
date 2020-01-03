@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BodySeg
+comment1.params=x\ y\ p
+comment1.target=BodySeg(int,\ int,\ GamePanel)
+comment2.params=c\ x\ y\ p
+comment2.target=BodySeg(java.awt.Color,\ int,\ int,\ GamePanel)
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=x\ y
+comment5.target=void\ move(int,\ int)
+comment6.params=aSegment
+comment6.target=void\ setNextSeg(Body)
+comment7.params=
+comment7.target=Body\ getNextSeg()
+comment8.params=aBrush
+comment8.target=void\ fill(java.awt.Graphics2D)
+numComments=9

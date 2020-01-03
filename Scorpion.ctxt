@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scorpion
+comment1.params=p\ x\ y
+comment1.target=Scorpion(GamePanel,\ int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=aBrush
+comment3.target=void\ fill(java.awt.Graphics2D)
+numComments=4
